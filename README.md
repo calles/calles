@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Zaldaña.
 - 👀 I’m interested in networking, cloud, and security computing.
-- 🌱 I’m currently learning about impove hacking skills.
+- 🌱 I'm currently learning about improve hacking skills.
 - 💞️ I’m looking to collaborate with you.
 
 <!---
