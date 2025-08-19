@@ -1,4 +1,4 @@
-# Rodrigo Zaldaña – Ingeniero Informático con Visión Integral del Ciclo de Vida Tecnológico
+# Rodrigo Zaldaña – Grado Ingeniería Informática
 
 Soy Rodrigo Zaldaña, ingeniero informático apasionado por construir soluciones tecnológicas sólidas, inteligentes y automatizadas. Mi enfoque profesional abarca todo el ciclo de vida del desarrollo, desde el diseño de arquitecturas eficientes hasta el despliegue seguro y escalable en entornos cloud.
 
